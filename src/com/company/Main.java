@@ -10,10 +10,6 @@ public class Main {
         //ASDASDA
         //ASDASDASD
 
-
-
-        
-
         System.out.println("Person name: " + person.getName());
     }
 }
